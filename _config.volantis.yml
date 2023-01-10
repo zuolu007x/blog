@@ -8,3 +8,9 @@ custom_css:
         zoom-out: volantis-static/media/cursor/zoom-out.png # https://gcore.jsdelivr.net/gh/inkss/common@1/cursor/zoom-out.png
         zoom-in: volantis-static/media/cursor/zoom-in.png # https://gcore.jsdelivr.net/gh/inkss/common@1/cursor/zoom-in.png
         grab: volantis-static/media/cursor/openhand.png # https://gcore.jsdelivr.net/gh/inkss/common@1/cursor/openhand.png
+navbar:
+    visiable: auto # always, auto
+    logo: # choose [img] or [icon + title]
+        img: https://lululu.online/images/navbarLogo.jpg
+        icon:
+        title:
