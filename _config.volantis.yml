@@ -59,5 +59,17 @@ navbar:
                 url: examples/
               - name: 特别感谢
                 url: contributors/
+              - name: 近期
+                icon: fa-solid fa-clock
+                url: /
+                rows:
+                    - name: 热门文章
+                      icon: fa-solid fa-fire
+                    - name: ProHUD 开源库的设计思路
+                      url: blog/2019-08-27-prohud/
+                    - name: ValueX：实用的安全对象类型转换库
+                      url: blog/2019-08-29-valuex/
+                    - name: 心率管家 App 的设计与开发
+                      url: blog/2019-07-23-heartmate/
     search: Search... # Search bar placeholder
 ############################### Navigation Bar ############################### > end
